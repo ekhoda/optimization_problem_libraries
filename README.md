@@ -52,6 +52,7 @@ If you have any suggestions or corrections, especially if I miscategorized somet
 * [Maximum Clique, Maximum Independent Set, Minimum Vertex Cover, Vertex Coloring](http://sites.nlsde.buaa.edu.cn/~kexu/benchmarks/graph-benchmarks.htm)
 * [Atamturk Datasets](https://atamturk.ieor.berkeley.edu/data/) on fixed-charge flow, lot sizing, mixed-integer knapsack, and more
 * OptaPlanner Examples [Problem Definitions](https://docs.optaplanner.org/latestFinal/optaplanner-docs/html_single/#examplesOverview) and [Data Sets](https://github.com/kiegroup/optaplanner/tree/master/optaplanner-examples/data)
+* [GiC Data Sets](https://sites.google.com/site/gciports/)
 
 
 ## Miscellaneous
