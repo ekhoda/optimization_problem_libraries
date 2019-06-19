@@ -54,11 +54,18 @@ If you have any suggestions or corrections, especially if I miscategorized somet
 * OptaPlanner Examples [Problem Definitions](https://docs.optaplanner.org/latestFinal/optaplanner-docs/html_single/#examplesOverview) and [Data Sets](https://github.com/kiegroup/optaplanner/tree/master/optaplanner-examples/data)
 * [GiC Data Sets](https://sites.google.com/site/gciports/)
 
+## Stochastic Programming Test Sets 
+* [SIPLIB: Stochastic Integer Programming Test Problems](https://www2.isye.gatech.edu/~sahmed/siplib/)
+* [Jeff Linderoth, Alex Shapiro, and Stephen Wright](http://pages.cs.wisc.edu/~swright/stochastic/sampling/)
+* [POSTS: (PO)rtable (S)tochastic programming (T)est (S)et](http://users.iems.northwestern.edu/~jrbirge/html/dholmes/post.html)
+* [Test-Problem Collection for Stochastic Linear Programming (Andy Felt)](https://www4.uwsp.edu/math/afelt/slptestset/download.html)
+* [cORe: (c)omputational (O)perations (R)esearch (e)xchange (Suvrajeet Sen)](https://core.isrd.isi.edu/chaise/recordset/#1/Core:Instance@sort(RCT::desc::,RID))
+* [WATSON pension fund management test problems](http://vlsicad.eecs.umich.edu/BK/Slots/cache/www-cfr.jims.cam.ac.uk/research/stprog.html)
+
 
 ## Miscellaneous
 * [MIPLIB 2017: Mixed Integer Programming](http://miplib.zib.de)
 * [MINLPLib: Mixed Integer and Continuous Nonlinear Programming](http://www.minlplib.org/instances.html)
-* [SIPLIB: Stochastic Integer Programming Test Problems](https://www2.isye.gatech.edu/~sahmed/siplib/)
 * [CSPlib: Constraint Optimization and Satisfaction](http://www.csplib.org/)
 * [SIMOPT: (Stochastic) Simulation Optimization Library](http://www.simopt.org/)
 * [CBLIB: The Conic Benchmark Library](http://cblib.zib.de/)
