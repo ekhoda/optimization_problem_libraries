@@ -73,6 +73,7 @@ If you have any suggestions or corrections, especially if I miscategorized somet
 * [BASBLib: Bilevel Programming Problems](http://basblsolver.github.io/BASBLib/)
 * [COMPlib: COnstraint Matrix Optimization Problem Library](http://www.complib.de/)
 * [CUTEr/st: Constrained and Unconstrained (Nonlinear Optimization) Testing Environment]( http://www.cuter.rl.ac.uk/Problems/mastsif.shtml)
+* [SDPLIB 1.2, A Library of Semidefinite Programming Test Problems](http://euler.nmt.edu/~brian/sdplib/)
 * [NWLPLIB: Wireless Localization](http://www.ic.unicamp.br/~cid/Problem-instances/Wireless-Localization/)
 * [MIRPLIB: Maritime Inventory Routing Problems](https://mirplib.scl.gatech.edu/)
 * [PSPLIB: Project Scheduling Problems](http://www.om-db.wi.tum.de/psplib/main.html)
