@@ -62,6 +62,10 @@ If you have any suggestions or corrections, especially if I miscategorized somet
 * [cORe: (c)omputational (O)perations (R)esearch (e)xchange (Suvrajeet Sen)](https://core.isrd.isi.edu/chaise/recordset/#1/Core:Instance@sort(RCT::desc::,RID))
 * [WATSON pension fund management test problems](http://vlsicad.eecs.umich.edu/BK/Slots/cache/www-cfr.jims.cam.ac.uk/research/stprog.html)
 
+## Multi-Objective Optimization
+* [vOptLib: Multi-Objective Linear Optimization Problems](https://voptsolver.github.io/vOptLib/)
+* [Multi-Objective Optimization Repository (MOrepo)](https://github.com/MCDMSociety/MOrepo)
+
 
 ## Miscellaneous
 * [MIPLIB 2017: Mixed Integer Programming](http://miplib.zib.de)
@@ -85,7 +89,6 @@ If you have any suggestions or corrections, especially if I miscategorized somet
 * [Frequency Assignment Problems](http://fap.zib.de/problems/)
 * [Traveling Umpire Problem](http://benchmark.gent.cs.kuleuven.be/tup/en/)
 * [Combinatorial Auction Test Suite (CATS)](https://www.cs.ubc.ca/~kevinlb/CATS/)
-* [vOptLib: Multi-Objective Linear Optimization Problems](https://voptsolver.github.io/vOptLib/)
 
 
 
