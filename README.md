@@ -15,6 +15,7 @@ If you have any suggestions or corrections, especially if I miscategorized somet
 * [Pickup and Delivery Problems](http://hhperez.webs.ull.es/PDsite/)
 * [Orienteering Problem](https://www.mech.kuleuven.be/en/cib/op)
 * [OPLIB: Orienteering Problem](https://unicen.smu.edu.sg/oplib-orienteering-problem-library)
+* [CVRPLIB: Capacitated Vehicle Routing Problem Library](http://vrp.atd-lab.inf.puc-rio.br/index.php/en/)
 
 ## Packing Problems
 * [PackLib: Packing](http://www.ibr.cs.tu-bs.de/alg/packlib/instances.shtml)
