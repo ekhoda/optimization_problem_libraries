@@ -27,6 +27,10 @@ If you have any suggestions or corrections, especially if I miscategorized somet
 * [Flow Shop Sequncing, Job Shop, and Open Shop Scheduling](http://mistic.heig-vd.ch/taillard/problemes.dir/ordonnancement.dir/ordonnancement.html)
 * [Job Shop Scheduling of Taillard's and Demirkol's instances ](http://optimizizer.com/jobshop.php)
 
+## Project Scheduling
+* [PSPLIB](http://www.om-db.wi.tum.de/psplib/main.html)
+* [New RCPSP instances and results](http://solutionsupdate.ugent.be/index.php/)
+
 ## Location Problems
 * [UflLib: Uncapacitated Facility Location](http://resources.mpi-inf.mpg.de/departments/d1/projects/benchmarks/UflLib/)
 * [Discrete Location Problems](http://math.nsc.ru/AP/benchmarks/english.html)
@@ -55,7 +59,7 @@ If you have any suggestions or corrections, especially if I miscategorized somet
 * OptaPlanner Examples [Problem Definitions](https://docs.optaplanner.org/latestFinal/optaplanner-docs/html_single/#examplesOverview) and [Data Sets](https://github.com/kiegroup/optaplanner/tree/master/optaplanner-examples/data)
 * [GiC Data Sets](https://sites.google.com/site/gciports/)
 
-## Stochastic Programming Test Sets 
+## Stochastic Programming Test Sets
 * [SIPLIB: Stochastic Integer Programming Test Problems](https://www2.isye.gatech.edu/~sahmed/siplib/)
 * [Jeff Linderoth, Alex Shapiro, and Stephen Wright](http://pages.cs.wisc.edu/~swright/stochastic/sampling/)
 * [POSTS: (PO)rtable (S)tochastic programming (T)est (S)et](http://users.iems.northwestern.edu/~jrbirge/html/dholmes/post.html)
@@ -81,7 +85,6 @@ If you have any suggestions or corrections, especially if I miscategorized somet
 * [SDPLIB 1.2, A Library of Semidefinite Programming Test Problems](http://euler.nmt.edu/~brian/sdplib/)
 * [NWLPLIB: Wireless Localization](http://www.ic.unicamp.br/~cid/Problem-instances/Wireless-Localization/)
 * [MIRPLIB: Maritime Inventory Routing Problems](https://mirplib.scl.gatech.edu/)
-* [PSPLIB: Project Scheduling Problems](http://www.om-db.wi.tum.de/psplib/main.html)
 * [TTPLib: Train Timetabling Problem Library](http://ttplib.zib.de)
 * [Employee Shift Scheduling](http://www.schedulingbenchmarks.org/)
 * [Graph Partitioning](http://chriswalshaw.co.uk)
@@ -90,7 +93,3 @@ If you have any suggestions or corrections, especially if I miscategorized somet
 * [Frequency Assignment Problems](http://fap.zib.de/problems/)
 * [Traveling Umpire Problem](http://benchmark.gent.cs.kuleuven.be/tup/en/)
 * [Combinatorial Auction Test Suite (CATS)](https://www.cs.ubc.ca/~kevinlb/CATS/)
-
-
-
-
